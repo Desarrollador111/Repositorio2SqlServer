@@ -14,5 +14,6 @@ CREATE TABLE [dbo].[agenda](
 	[ColumnaNueva2] [varchar](40) NULL,
 	[Colum3] [varchar](40) NULL,
 	[ColumMartes] [varchar](20) NULL,
-	[JuevesS] [varchar](30) NULL
+	[JuevesS] [varchar](30) NULL,
+	[JuevesT] [varchar](20) NULL
 ) ON [PRIMARY]
